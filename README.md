@@ -1,3 +1,7 @@
+# Project Preview
+
+![alt text](https://github.com/Shubhangam333/Dev-Chat/blob/master/imgonline-com-ua-GIF-animation-95Kx1YMvbyS.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
